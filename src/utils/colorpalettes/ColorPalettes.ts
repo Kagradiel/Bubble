@@ -1,0 +1,58 @@
+const colorPalettes = {
+  default: {
+    primary: "#6a0e0e", 
+    secondary: "#9b1414", 
+    tertiary: "#d34b4b", 
+    quaternary: "#e66b6b", 
+    quinary: "#f29b9b", 
+    brightCenter: "#fff", 
+    brightGradientStart: "#e66b6b", 
+  },
+  cool: {
+    primary: "#1d3a4d", 
+    secondary: "#2b4c63", 
+    tertiary: "#3e6f83", 
+    quaternary: "#567b97", 
+    quinary: "#8da9c4", 
+    brightCenter: "#fff", 
+    brightGradientStart: "#567b97", 
+  },
+  warm: {
+    primary: "#9e3e2c",
+    secondary: "#d87c6a",
+    tertiary: "#f7a39e",
+    quaternary: "#fbd3b0",
+    quinary: "#ffcc99",
+    brightCenter: "#fff",
+    brightGradientStart: "#fbd3b0",
+  },
+  nature: {
+    primary: "#2c5d2e",
+    secondary: "#4c8a5c",
+    tertiary: "#8dbb8e",
+    quaternary: "#b0d9a1",
+    quinary: "#d8f1d3",
+    brightCenter: "#fff",
+    brightGradientStart: "#b0d9a1",
+  },
+  pastel: {
+    primary: "#7c7bbf",
+    secondary: "#a4a7dc",
+    tertiary: "#c1c5e5",
+    quaternary: "#e1e5f1",
+    quinary: "#f2f4fb",
+    brightCenter: "#fff",
+    brightGradientStart: "#e1e5f1",
+  },
+  golden: {
+    primary: "#D4AF37", 
+    secondary: "#B8860B", 
+    tertiary: "#F0C674", 
+    quaternary: "#FFF5CC", 
+    quinary: "#FFEBCD", 
+    brightCenter: "#FFFFFF", 
+    brightGradientStart: "#F0C674", 
+  },
+};
+
+export default colorPalettes;
